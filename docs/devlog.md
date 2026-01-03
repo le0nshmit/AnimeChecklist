@@ -4,8 +4,9 @@
 
 ### Goals
 
-- Store Anime (Anime, Episode)
-
+- Build Main Menu [View, Modify] | main.py
+- Create View List [Name, Watched/Episodes, Completion %] | view.py
+- Modify Menu [Add, Delete, Edit] | modify.py
 
 ### Decisions
 
@@ -23,5 +24,3 @@
 
 
 ### Next Steps
-
-
